@@ -1,0 +1,5 @@
+{
+  "name": "SmartBudget IL",
+  "description": "A comprehensive budget and expense management application based on personal financial documents, featuring tax calculations, fixed payment tracking, and visual analytics.",
+  "requestFramePermissions": []
+}
